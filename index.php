@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jules Jean-Louis / Projets</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="img/circle-rev-1.png">
     <script src="https://kit.fontawesome.com/8b26d30613.js" crossorigin="anonymous"></script>
     <!-- tailwindcss -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -35,10 +36,12 @@
         <article>
             <section class="w-full flex flex-col items-center lg:h-[140vh]">
                 <div id="title" class="pt-[20%] pb-[4%] lg:pt-[7%]">
-                    <h1 class="text-[#D2D2D3] font-bold text-3xl text-center">Projets</h1>
+                    <h1 class="text-[#D2D2D3] font-bold text-3xl text-center uppercase">
+                        Projets
+                    </h1>
                     <p>
                         <span class="text-[#707173]">
-                            Voici une liste de mes projets
+                            Liste de mes projets
                         </span>
                     </p>
                 </div>
