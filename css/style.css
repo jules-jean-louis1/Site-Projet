@@ -7,9 +7,12 @@
   font-family: 'Roboto', sans-serif;
 }
 body {
+  /*background: url("../img/Arrière-plan-copie.png");*/
   background: #121316;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 img {
   /*background-color: #202124;*/
   transition: 300ms ease-in;
