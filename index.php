@@ -64,11 +64,11 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="#" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://jules-jean-louis.students-laplateforme.io/oclock/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
-                            <a href="#" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://github.com/jules-jean-louis1/oclock" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
                                 <i class="fa-brands fa-github"></i>
                                 Github
                             </a>
@@ -120,11 +120,11 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="https://jules-jean-louis.students-laplateforme.io/oclock/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://github.com/jules-jean-louis1/runtrack3" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
-                            <a href="https://github.com/jules-jean-louis1/oclock" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://github.com/jules-jean-louis1/runtrack3" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
                                 <i class="fa-brands fa-github"></i>
                                 Github
                             </a>
