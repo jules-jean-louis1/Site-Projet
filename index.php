@@ -302,10 +302,10 @@
 <footer>
     <div id="containerFooter" class="w-full p-4">
         <div id="wapperFooter" class="flex flex-col items-center pt-[5%] pb-[2%] w-full lg:p-0">
-            <div id="linkFooter" class="flex flex-col space-y-3 w-full lg:flex-row lg:justify-center lg:space-x-5 ">
+            <div id="linkFooter" class="flex flex-col space-y-3 w-full lg:flex-row lg:justify-center lg:space-x-5 lg:space-y-0 ">
                 <a href="https://github.com/jules-jean-louis1" id="boxFooter" class="px-7 py-4 rounded-lg border-2 border-[#202124] hover:bg-[#202124] flex justify-center
                         ease-in duration-300 ">
-                    <button class="flex items-center space-x-3">
+                    <button class="flex items-center space-x-3 lg:space-0">
                             <span class="text-[#D2D2D3]">
                                 <i class="fa-brands fa-github fa-lg"></i>
                             </span>
@@ -316,7 +316,7 @@
                 </a>
                 <a href="https://github.com/jules-jean-louis1" id="boxFooter" class="px-7 py-4 rounded-lg border-2 border-[#202124] hover:bg-[#202124] flex justify-center
                         ease-in duration-300 ">
-                    <button class="flex items-center space-x-3">
+                    <button class="flex items-center space-x-3 lg:space-0">
                             <span class="text-[#D2D2D3]">
                                 <img src="img/jjl-3d-v2.svg" id="logoFooter" alt="" class="w-5">
                             </span>
