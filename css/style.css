@@ -12,11 +12,16 @@ body {
 
 img {
   /*background-color: #202124;*/
-  transition: background-color 0.5s ease;
+  transition: background-color 300ms ease-in;
   filter: grayscale(100%);
 }
 
 img:hover {
-  background-color: #2137fc;
   filter: grayscale(0%);
+}
+img#logoFooter {
+  background-color: transparent;
+}
+img#logoFooter:hover {
+  background-color: transparent;
 }
