@@ -16,19 +16,26 @@
 <header class="fixed top-2 left-0 right-0 z-10 mx-2 flex justify-center">
     <nav class="bg-[#181A1Dfc] rounded-full py-2 w-[95%] lg:w-[85%]">
         <ul class="flex justify-between items-center px-3">
-            <li>
-                <a href="#top" class="text-white">
-                    <img src="img/jjl-3d-v2.svg" alt="" class="w-9">
-                </a>
-            </li>
+            <div class="flex items-center space-x-3">
+                <li>
+                    <a href="#top" class="text-white">
+                        <img src="img/jjl-3d-v2.svg" alt="" class="w-9 text-[#D2D2D3] hover:text-[#a770ff]">
+                    </a>
+                </li>
+                <li class="hidden lg:block">
+                    <a href="#top" class="text-[#D2D2D3] hover:text-[#a770ff] text-semibold uppercase" id="jjl">
+                        Jules Jean-Louis
+                    </a>
+                </li>
+            </div>
             <div class="flex space-x-2">
                 <li class="rounded-full w-9 bg-[#202124] flex justify-center ">
-                    <a href="https://github.com/jules-jean-louis1" class="text-[#D2D2D3]">
+                    <a href="https://github.com/jules-jean-louis1" class="text-[#D2D2D3] hover:text-[#a770ff]">
                         <i class="fa-brands fa-github fa-2x"></i>
                     </a>
                 </li>
                 <li class="rounded-full w-9 bg-[#202124] flex justify-center ">
-                    <a href="https://jules-jean-louis.students-laplateforme.io/" class="text-[#D2D2D3]">
+                    <a href="https://jules-jean-louis.students-laplateforme.io/" class="text-[#D2D2D3] hover:text-[#a770ff]">
                         <i class="fa-regular fa-circle-user fa-2x"></i>
                     </a>
                 </li>
@@ -38,8 +45,8 @@
 </header>
     <main>
         <article>
-            <section class="w-full flex flex-col items-center lg:h-[155vh]">
-                <div id="title" class="pt-[20%] pb-[4%] lg:pt-[7%]">
+            <section class="w-full flex flex-col items-center lg:h-[150vh]">
+                <div id="title" class="pt-[20%] pb-[4%] mb:pt-[5%] lg:pt-[5%] lg:pb-[2%]">
                     <h1 class="text-[#D2D2D3] font-bold text-3xl text-center uppercase">
                         Projets
                     </h1>
@@ -68,7 +75,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="https://jules-jean-louis.students-laplateforme.io/oclock/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://jules-jean-louis.students-laplateforme.io/oclock/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
@@ -96,7 +103,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="https://jules-jean-louis.students-laplateforme.io/autocompletion/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://jules-jean-louis.students-laplateforme.io/autocompletion/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
@@ -124,7 +131,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="https://github.com/jules-jean-louis1/runtrack3" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://github.com/jules-jean-louis1/runtrack3" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
@@ -152,7 +159,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="#" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="#" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
@@ -180,7 +187,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="https://jules-jean-louis.students-laplateforme.io/mycms/" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://jules-jean-louis.students-laplateforme.io/mycms/" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
@@ -208,7 +215,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="https://jules-jean-louis.students-laplateforme.io/reservationsalles/php/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://jules-jean-louis.students-laplateforme.io/reservationsalles/php/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
@@ -236,7 +243,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="https://jules-jean-louis.students-laplateforme.io/livreor/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://jules-jean-louis.students-laplateforme.io/livreor/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
@@ -264,7 +271,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="https://jules-jean-louis.students-laplateforme.io/moduleconnexion/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="https://jules-jean-louis.students-laplateforme.io/moduleconnexion/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
@@ -292,7 +299,7 @@
                             </p>
                         </div>
                         <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
-                            <a href="#" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                            <a href="#" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
                                 <i class="fa-solid fa-globe"></i>
                                 Projet
                             </a>
