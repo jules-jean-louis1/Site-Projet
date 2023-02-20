@@ -45,7 +45,7 @@
 </header>
     <main>
         <article>
-            <section class="w-full flex flex-col items-center lg:h-[150vh]">
+            <section class="w-full flex flex-col items-center lg:h-[185vh]">
                 <div id="title" class="pt-[20%] pb-[4%] mb:pt-[5%] lg:pt-[5%] lg:pb-[2%]">
                     <h1 class="text-[#D2D2D3] font-bold text-3xl text-center uppercase">
                         Projets
@@ -57,6 +57,34 @@
                     </p>
                 </div>
                 <div id="containerProject" class="flex flex-col justify-center items-center mx-5 space-y-5 lg:flex-row lg:flex-wrap lg:space-x-5 lg:space-y-4">
+                    <!-- projet list Livre-orJS-->
+                    <div id="project" class="bg-[#181A1D] hover:bg-[#202124] rounded-lg ease-in duration-300 lg:w-1/4 lg:mt-5 lg:ml-5">
+                        <div id="imgContainer" class="">
+                            <img src="projet/livre-or-js.jpg" alt="Oclock" class="object-cover object-center rounded-t-lg">
+                        </div>
+                        <div id="titleProject" class="flex flex-col items-center py-3">
+                            <h2>
+                                <span class="text-[#D2D2D3] font-semibold">
+                                  Livre d'or JS
+                                </span>
+                            </h2>
+                            <p>
+                                <span class="text-[#707173]">
+                                    Projet Livre d'or en JS en PHP
+                                </span>
+                            </p>
+                        </div>
+                        <div id="linkProject" class="flex justify-center mb-2 space-x-2 text-[#707173]">
+                            <a href="https://jules-jean-louis.students-laplateforme.io/livreor-js/index.php" class="bg-[#27282B] px-2 rounded hover:text-[#217CE5]">
+                                <i class="fa-solid fa-globe"></i>
+                                Projet
+                            </a>
+                            <a href="https://github.com/jules-jean-louis1/Livreor-js" class="bg-[#27282B] px-2 rounded hover:text-[#a770ff]">
+                                <i class="fa-brands fa-github"></i>
+                                Github
+                            </a>
+                        </div>
+                    </div>
                     <!-- projet list oclock-->
                     <div id="project" class="bg-[#181A1D] hover:bg-[#202124] rounded-lg ease-in duration-300 lg:w-1/4 lg:mt-5 lg:ml-5">
                         <div id="imgContainer" class="">
